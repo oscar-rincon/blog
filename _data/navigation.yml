@@ -28,7 +28,10 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=qXf5lGQAAAAJ&hl=en
     #/publications/
-    
+
+  - title: "Others"
+    url: /others/
+
   # - title: "CV"
   #   url: /cv-json/
     
