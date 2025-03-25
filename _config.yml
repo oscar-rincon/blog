@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Oscar Rincón / Blog"
+title                    : "Oscar's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Oscar Rincón"
 description              : &description "personal description"
 url                      : https://oscar-rincon.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Oscar"
+  avatar           : "maxwell.jpg"
+  name             : "Oscar Rincon-Cardeño"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Machine Learning Researcher"
   location         : "Medellín, Colombia"
   employer         : "EAFIT University"
   uri              : # URL
@@ -33,11 +33,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=qXf5lGQAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5308-9710"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "in/oscar-rincón-47319a23a"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
